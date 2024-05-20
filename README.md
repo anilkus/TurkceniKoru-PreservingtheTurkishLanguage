@@ -1,3 +1,6 @@
+![image](https://github.com/anilkus/TurkceniKoru-PreservingtheTurkishLanguage/assets/16832969/066c22f9-3a06-442c-80c6-64d9f12674c2)
+
+
 # TürkçeniKoru-Preserving the Turkish Language
 Günlük hayatta sosyal/görsel medyada, haberlerde veya günlük konuşmalarda, türkçe cümlelerin içerisinde yabancı(türkçe olmayan) kelime veya yapıların sık  sık kullanıldığına şahit oluyoruz.
 Bu çalışma bu tarz cümlelerdeki türkçe olmayan kelime/yapıları tespit edip değiştirerek, yeniden cümleler kuran bir uygulama geliştirmeyi amaçlamıştır.
