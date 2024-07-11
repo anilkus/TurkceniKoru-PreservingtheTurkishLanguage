@@ -2,7 +2,7 @@
 
 
 # TürkçeniKoru-Preserving the Turkish Language
-Teknofest 2024 Doğal Dil İşleme Yarışması - ToRos Dil İşleme Takımı ![Siyah ve Beyaz Minimalist Profesyonel Tipografik Hukuk Danışmanlığı Logo (1)](https://github.com/anilkus/TurkceniKoru-PreservingtheTurkishLanguage/assets/16832969/37828754-f267-435c-990d-40ae61beb79c)
+Teknofest 2024 Doğal Dil İşleme Yarışması - ToRos Dil İşleme Takımı 
 
 
 Günlük hayatta sosyal/görsel medyada, haberlerde veya günlük konuşmalarda, türkçe cümlelerin içerisinde yabancı(türkçe olmayan) kelime veya yapıların sık  sık kullanıldığına şahit oluyoruz.
